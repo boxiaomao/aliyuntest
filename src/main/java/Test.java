@@ -62,7 +62,7 @@ public class Test {
     }
 
     public static void main(String[] args) {
-                    Test test = new Test();
+                   /* Test test = new Test();
                     String phoneNumber = "17388290571";//17388290571,13388917712,15002359405,18203087761,15310479261,18523059914,
                     String SignName = "阿里云短信测试专用";
                     String TemplateCode = "SMS_78965062";
@@ -73,7 +73,10 @@ public class Test {
                     json.put("name", name);
                     String TemplateParam = json.toString();
                     System.out.println(TemplateParam);
-                    test.sendeMsg(phoneNumber, SignName, TemplateCode, TemplateParam);
+                    test.sendeMsg(phoneNumber, SignName, TemplateCode, TemplateParam);*/
+
+
+
 }
 
 }
